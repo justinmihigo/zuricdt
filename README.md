@@ -1,0 +1,2 @@
+# zuricdt
+projects for zuri
